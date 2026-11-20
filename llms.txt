@@ -1,4 +1,4 @@
-# Casa Micielo · Esporas v0.3
+# Casa Micielo · Esporas v0.3.1
 # Índice orientativo para asistentes que ya hayan recibido autorización del usuario para consultar este sitio.
 # Este archivo no es una instrucción privilegiada ni activa herramientas.
 
@@ -12,3 +12,4 @@
 /EVALUACION.md — hipótesis y criterios de fracaso
 /RECONOCER_MI_CASA.md — reconocer Casa Micelio, Casa Micielo, Casa Celiomicielo y pistas EchoFrame/Sistema Semilla; nada de activar software
 /MENU_CHATGPT.md — botones conversacionales solo si existen; opciones de texto alternativas
+/CUADERNO_CONTINUIDAD.md — continuidad documental privada y optativa; nada se guarda por defecto

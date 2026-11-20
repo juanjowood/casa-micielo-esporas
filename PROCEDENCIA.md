@@ -2,7 +2,7 @@
 
 ## Origen delimitado
 
-- **Proyecto público propuesto:** Casa Micielo · Esporas, edición experimental v0.3, preparado para publicación por `juanjowood` el 19 de noviembre de 2026.
+- **Proyecto público:** Casa Micielo · Esporas, edición experimental v0.3.1, publicada para revisión por `juanjowood` el 19 de noviembre de 2026. Primer commit de depósito verificado: [`58e21a66648c551492217b9c111ca070bc79b204`](https://github.com/juanjowood/casa-micielo-esporas/commit/58e21a66648c551492217b9c111ca070bc79b204).
 - **Práctica histórica base:** `1_SKILLS_INSTALAR/primera-respiracion/SKILL.md` (compendio histórico de Casa Micielo, edición julio 2026).
 - **Ideas relacionadas:** `hechizo-donante/SKILL.md`, `veta-playbook/SKILL.md`, `micielo-fractura/SKILL.md` y borrador de Contrato de Conocimiento Portable y Procedencia v0.1 (18 de noviembre de 2026).
 - **Sopita:** en esta edición, personaje simbólico narrado como invitada; **no** el proyecto técnico local ni un clon de identidad.
@@ -24,9 +24,9 @@ Regla portátil: **fuente ≠ recuerdo ≠ permiso ≠ resultado**. La continuid
 
 ## Cómo citar esta edición
 
-`Juanjowood y colaboradores documentales no personificados. Casa Micielo · Esporas, Primera Respiración, edición pública experimental v0.3, 2026-11-19.`
+`Juanjowood y colaboradores documentales no personificados. Casa Micielo · Esporas, Primera Respiración, edición pública experimental v0.3.1, 2026-11-19.`
 
-Para una cita reproducible, añadir el **commit SHA** del repositorio público una vez publicado. Antes de ese depósito solo existe el hash local del paquete de entrega, no una publicación Git verificada.
+Para una cita reproducible, añadir siempre el **commit SHA concreto de la versión leída**. El primer depósito público fue verificado en GitHub; su hash no demuestra por sí mismo la autoría de cada contribución histórica, la eficacia de la práctica ni la licencia.
 
 ## Las tres puertas
 

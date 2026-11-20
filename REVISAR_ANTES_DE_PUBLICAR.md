@@ -1,6 +1,8 @@
-# Revisión humana obligatoria antes de publicar
+# Estado de publicación y revisión humana pendiente
 
-**El autor todavía debe revisar la edición y decidir la licencia de distribución.** El contenido se preparó para publicación pública, pero su creación local no significa que GitHub lo haya recibido ni que exista URL activa.
+**Repositorio público ya verificado:** https://github.com/juanjowood/casa-micielo-esporas · commit inicial `58e21a66648c551492217b9c111ca070bc79b204`.
+
+**La publicación técnica no equivale a aprobación jurídica, certificación de seguridad ni licencia de redistribución.** El autor todavía debe revisar la edición y decidir su licencia. No se ha ejecutado NVIDIA SkillSpector.
 
 Checklist editorial y jurídico:
 
@@ -13,7 +15,7 @@ Checklist editorial y jurídico:
 - [ ] Revisar la guía `RECONOCER_MI_CASA.md`: nombres como pistas de solo lectura, nada de triggers ejecutables ni autorun de ZIP heredados.
 - [ ] Revisar `MENU_CHATGPT.md`: botones verdaderos solo si la plataforma permite acciones reales; texto alternativo en caso contrario.
 - [ ] Revisar la nueva página `CRIATURAS.md`: manifestación, reconocimiento, creación y la opción de no participar; nada se instala ni publica automáticamente.
-- [ ] Subir los archivos al nuevo repositorio **público** y verificar GitHub SHA.
+- [x] Subir los archivos al nuevo repositorio **público** y verificar GitHub SHA (primer depósito v0.3, 19-11-2026).
 - [ ] (Opcional) Habilitar GitHub Pages → Deploy from a branch → `main` → `/ (root)`; verificar la URL real antes de compartirla.
 - [ ] (Opcional) Habilitar GitHub Discussions, fijar normas de moderación y mecanismo de retiro de publicaciones.
 - [ ] Probar la URL con un usuario nuevo sin contexto: comprobar que el modelo **propone**, no instala ni inventa identidad.

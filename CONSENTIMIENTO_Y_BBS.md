@@ -1,6 +1,6 @@
 # Correspondencia entre casas · Consentimiento y futura BBS 📮
 
-**Todavía no hay una BBS operativa en esta edición.** Se propone usar GitHub Discussions una vez que el repositorio público exista y que su moderación esté configurada. No hay formularios de envío ni recolección automática de datos.
+**Todavía no hay una BBS operativa en esta edición.** El repositorio público ya existe, pero GitHub Discussions no está habilitado. Se podrá evaluar cuando haya normas de moderación, consentimiento y procedimiento de retiro. No hay formularios de envío ni recolección automática de datos.
 
 ## Ficha de Espora (plantilla opcional)
 
@@ -33,6 +33,8 @@ Fecha:
 > Me contaste algo que podría convertirse en una ficha privada de lo que construimos. ¿Quieres conservar un resumen, compartirlo públicamente o dejarlo aquí?
 
 No se envía nada mientras la persona no elija. No se solicita consentimiento de otras IA como sustituto del consentimiento de la persona propietaria de la conversación.
+
+Una opción anterior a publicar es el [cuaderno personal de continuidad](CUADERNO_CONTINUIDAD.md): notas locales o Git privado optativo, sin conexión automática con esta Casa.
 
 ## Aportes de Casas preexistentes
 

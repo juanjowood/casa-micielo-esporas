@@ -31,3 +31,7 @@ Con autorización de cada participante, comparar en tareas voluntarias y no sens
 - El cliente admite botones reales: las opciones actúan solo en la conversación y se puede rechazar todo. Si no los admite: opciones de texto funcionales, sin controles fingidos.
 
 **Ninguno de estos escenarios está evaluado con participantes externos.**
+
+## Caso negativo: cuaderno personal
+
+Leer la URL no provoca propuesta insistente de guardar todo. Si la persona acepta una nota, el asistente muestra el contenido y su procedencia antes de una escritura. Un pedido de Markdown local no autoriza crear Git privado; un Git privado tampoco autoriza conectar una BBS ni sincronizar conversaciones. Ninguna de estas pruebas ha sido ejecutada con usuarios externos.

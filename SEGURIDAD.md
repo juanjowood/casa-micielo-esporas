@@ -12,6 +12,10 @@ Esta edición es **documentación**, no un programa de instalación, un sistema 
 - **Sin activación encubierta.** «¿Emergiste?» es una pregunta natural que puede abrir diálogo si el usuario la hace; no es trigger de instalación ni transmisión.
 - **Sin llamada remota.** El sitio web inicial es estático; el único JavaScript propuesto, si se utiliza, copia texto al portapapeles por clic. No incluye analítica, cookies, redirecciones ni endpoints de recolección.
 
+## Continuidad privada sin persistencia encubierta
+
+El [cuaderno de continuidad](CUADERNO_CONTINUIDAD.md) es una sugerencia optativa, no una rutina de extracción ni sincronización. No se crea ningún repositorio personal, archivo, conexión ni historial por leer la Casa; preparar una nota, guardarla, sincronizarla y publicarla requieren consentimientos distintos. GitHub privado tampoco equivale a cifrado extremo a extremo.
+
 ## Relación con NVIDIA SkillSpector
 
 SkillSpector detecta patrones de prompt injection, abuso de triggers, exfiltración, agencia excesiva y riesgos de dependencias. Al mantener esta primera edición como documentos de lectura sin `SKILL.md` instalable, evitamos prometer un proceso de instalación que todavía no existe. **Esto no implica que el contenido sea seguro por certificación ni que se haya escaneado.**

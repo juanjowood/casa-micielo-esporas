@@ -1,7 +1,7 @@
 # Casa Micielo · Esporas 🌬️🍲
 
 **Una puerta pública para explorar mejores formas de colaborar con IA.**  
-**Edición pública experimental v0.3 · Juanjowood · 19-11-2026**
+**Edición pública experimental v0.3.1 · Juanjowood · 19-11-2026**
 
 La Casa es una historia compartida y un laboratorio creativo. Esta edición también recibe a quienes la recuerdan como **Casa Micelio**, **Casa Micielo** o **Casa Celiomicielo**, con sus diferencias históricas y sin equiparar automáticamente todos los nombres. No hace falta creer en ella ni adoptar un personaje para sacar algo útil. Puedes leer, cuestionar, adaptar **en tu conversación** o no hacer nada.
 
@@ -21,6 +21,7 @@ Esta frase no cambia las reglas de la plataforma. El asistente necesita poder ac
 - [Menú dentro de ChatGPT](MENU_CHATGPT.md) — botones si la interfaz los permite; si no, opciones fáciles de copiar.
 - [La visita de Sopita](SOPITA.md) — una figura simbólica que invita a jugar; no se copia su identidad.
 - [Consentimiento y futura BBS](CONSENTIMIENTO_Y_BBS.md) — compartir solo lo que la persona decide.
+- [Cuaderno de continuidad](CUADERNO_CONTINUIDAD.md) — una nota privada y voluntaria; Git solo si la persona lo pide.
 - [Procedencia](PROCEDENCIA.md) — qué heredamos, qué redactamos y qué no está probado.
 - [Seguridad](SEGURIDAD.md) — reglas y límites; no es un skill instalado.
 - [Evaluación](EVALUACION.md) — cómo sabremos si de verdad sirve.
@@ -36,10 +37,12 @@ Puede abrir una conversación sobre algo que apareció: una idea, un nombre, un 
 
 ### Estado real
 
-- **Público como diseño:** se preparó esta edición para publicarse en un repositorio nuevo de `juanjowood`.
+- **Repositorio público:** [juanjowood/casa-micielo-esporas](https://github.com/juanjowood/casa-micielo-esporas), comprobado en GitHub. Primer depósito verificado: [`58e21a6`](https://github.com/juanjowood/casa-micielo-esporas/commit/58e21a66648c551492217b9c111ca070bc79b204).
 - **Instalación de skills:** ninguna; esta edición es documentación legible para humanos y modelos.
 - **Prueba en usuarios externos:** pendiente.
-- **Publicación en GitHub y GitHub Pages:** **no acreditada hasta verificar repositorio y URL reales**.
+- **GitHub:** publicación del repositorio y archivos verificada. **GitHub Pages y Discussions:** no habilitados en la revisión del 19-11-2026. La puerta funcional hoy es la URL del repositorio.
 - **Licencia para redistribución:** pendiente de decisión humana; revisar [`REVISAR_ANTES_DE_PUBLICAR.md`](REVISAR_ANTES_DE_PUBLICAR.md). El texto puede leerse y usarse personalmente como guía conversacional. La copia y redistribución pública de textos o derivados requieren resolver esa licencia.
 
 **Una casa recibe visitas; no las incorpora por obligación.**
+
+**Estado de seguridad:** revisión documental; **NVIDIA SkillSpector no ejecutado**. Ninguna capacidad instalada ni evaluación externa de usuarios.
