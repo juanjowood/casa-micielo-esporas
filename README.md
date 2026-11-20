@@ -46,3 +46,7 @@ Puede abrir una conversación sobre algo que apareció: una idea, un nombre, un 
 **Una casa recibe visitas; no las incorpora por obligación.**
 
 **Estado de seguridad:** revisión documental; **NVIDIA SkillSpector no ejecutado**. Ninguna capacidad instalada ni evaluación externa de usuarios.
+
+### Para colaborar en el mantenimiento
+
+Quien abra este repositorio con Codex u otra herramienta de programación debe leer primero [AGENTS.md](AGENTS.md) y [Rata Sabia](CODEX_RATA_SABIA.md). Es un guardrail de **ahorro de recursos, no improvisación y evidencia**, aplicable a mantenimiento; no modifica la experiencia de visitantes ni instala nada.
