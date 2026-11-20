@@ -1,0 +1,23 @@
+{
+  "method": "Node vm with mocked DOM/clipboard; not a browser integration test",
+  "checks": [
+    {
+      "scenario": "success",
+      "result": "PASS",
+      "clipboard_writes": 1,
+      "status": "Copiado. Léelo y decide: no se ha instalado nada."
+    },
+    {
+      "scenario": "denied",
+      "result": "PASS",
+      "clipboard_writes": 0,
+      "status": "No se pudo copiar automáticamente. Selecciona y copia el bloque completo de arriba: incluye la URL pública y la invitación."
+    },
+    {
+      "scenario": "unavailable",
+      "result": "PASS",
+      "clipboard_writes": 0,
+      "status": "No se pudo copiar automáticamente. Selecciona y copia el bloque completo de arriba: incluye la URL pública y la invitación."
+    }
+  ]
+}

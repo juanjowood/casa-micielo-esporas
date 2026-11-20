@@ -1,0 +1,22 @@
+{
+  "result": "PASS",
+  "scope": "static checks only; not NVIDIA PASS",
+  "html_document_links": 12,
+  "markdown_local_links": 47,
+  "automatic_external_resources": [],
+  "checks": [
+    "unique and referenced IDs",
+    "live status region",
+    "public URL visible without JavaScript",
+    "no location-dependent copy URL",
+    "no network/storage APIs in HTML",
+    "JSON syntax",
+    "original NVIDIA report hash preserved"
+  ],
+  "limitations": [
+    "no live HTTP validation",
+    "no real browser or visual check",
+    "no external user evaluation",
+    "NVIDIA scan applies to original HEAD only"
+  ]
+}
