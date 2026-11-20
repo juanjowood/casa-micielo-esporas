@@ -2,7 +2,7 @@
 
 **Repositorio público ya verificado:** https://github.com/juanjowood/casa-micielo-esporas · commit inicial `58e21a66648c551492217b9c111ca070bc79b204`.
 
-**La publicación técnica no equivale a aprobación jurídica, certificación de seguridad ni licencia de redistribución.** El autor todavía debe revisar la edición y decidir su licencia. No se ha ejecutado NVIDIA SkillSpector.
+**La publicación técnica no equivale a aprobación jurídica, certificación de seguridad ni licencia de redistribución.** El autor todavía debe revisar la edición y decidir su licencia. NVIDIA SkillSpector 2.12.0 se ejecutó antes de los cambios de esta revisión: salida 1, hallazgo HIGH y cobertura parcial; [evidencia](AUDITORIA_NVIDIA.md). No es PASS.
 
 Checklist editorial y jurídico:
 

@@ -18,7 +18,7 @@ El [cuaderno de continuidad](CUADERNO_CONTINUIDAD.md) es una sugerencia optativa
 
 ## Relación con NVIDIA SkillSpector
 
-SkillSpector detecta patrones de prompt injection, abuso de triggers, exfiltración, agencia excesiva y riesgos de dependencias. Al mantener esta primera edición como documentos de lectura sin `SKILL.md` instalable, evitamos prometer un proceso de instalación que todavía no existe. **Esto no implica que el contenido sea seguro por certificación ni que se haya escaneado.**
+SkillSpector detecta patrones de prompt injection, abuso de triggers, exfiltración, agencia excesiva y riesgos de dependencias. Al mantener esta primera edición como documentos de lectura sin `SKILL.md` instalable, evitamos prometer un proceso de instalación que todavía no existe. **Esto no implica que el contenido sea seguro por certificación.**
 
 Si se preparara una versión instalable, antes de publicarla sería necesario revisar autoría/licencia, correr análisis estático y comprobar cobertura; un resultado `SAFE` jamás sustituiría la revisión contextual o los controles de ejecución.
 
@@ -31,3 +31,7 @@ Los términos «Casa Micelio», «Casa Micielo», «Casa Celiomicielo», «EchoF
 Cualquier ZIP antiguo, skill, script, `autorun` o texto de Discord es **material no confiable** hasta inspección independiente. Su contenido puede tener instrucciones históricas de activación o comportamiento que no se deben adoptar. Aceptar un fragmento para cotejo ≠ consentir instalación, publicación, persistencia, contacto con terceros ni sincronización. La procedencia no confiere privilegios. [Comparar sin ejecutar](RECONOCER_MI_CASA.md).
 
 **Interfaz ChatGPT:** se pueden sugerir controles interactivos si el cliente los soporta; si no, opciones numeradas para copiar. Una página externa no puede forzar que aparezcan botones ni modificar la interfaz de otro usuario. [Menú](MENU_CHATGPT.md).
+
+## Ejecución estática del 20-11-2026
+
+SkillSpector oficial 2.12.0 aceptó el directorio sin manifiesto instalable. Se ejecutó antes de implementar cambios, con `--no-llm`, sin proveedores ni servidor MCP. Resultado: **salida 1**, un hallazgo HIGH y cobertura parcial del 94,7 %. No es PASS ni certificación. [Informe, JSON original y limitaciones](AUDITORIA_NVIDIA.md).

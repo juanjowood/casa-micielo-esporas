@@ -54,9 +54,10 @@
   "publication_initial_commit": "58e21a66648c551492217b9c111ca070bc79b204",
   "publication_verification_note": "Repositorio y contenido verificados en GitHub el 2026-11-19; revisión pública, no certificación.",
   "documentation_status": "published_review_candidate",
-  "nvidia_skillspector_status": "not_run",
+  "nvidia_skillspector_status": "executed_static_partial_exit_1",
   "personal_continuity_doc": "CUADERNO_CONTINUIDAD.md",
   "personal_git_optional": true,
   "pages_status_at_verification": "disabled",
-  "discussions_status_at_verification": "disabled"
+  "discussions_status_at_verification": "disabled",
+  "nvidia_skillspector_report": "AUDITORIA_NVIDIA.md"
 }

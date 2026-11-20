@@ -1,0 +1,33 @@
+{
+  "command": [
+    "/tmp/casa-skillspector-venv/bin/skillspector",
+    "scan",
+    ".",
+    "--no-llm",
+    "--format",
+    "json",
+    "--output",
+    "/tmp/skillspector-report.json",
+    "--fail-on-findings",
+    "--fail-on-incomplete"
+  ],
+  "exit_code": 1,
+  "head": "77bc8ab5bfb79d5e751afbff3140f0f6935a976e",
+  "report_exists": true,
+  "version": "2.12.0",
+  "official_source": "https://github.com/NVIDIA/SkillSpector",
+  "source_commit": "48e0f942ea1f5fdb7aa096a6f65a0adeda2ecc4e",
+  "report_sha256": "57d61c90b7e74ccc7ea748cbd7148a71dff5d6fa9e9556fb8a0c869bbe5eca98",
+  "stdout": "Report saved to: /tmp/skillspector-report.json\n",
+  "version_stdout": "SkillSpector v2.12.0\n",
+  "help_exit_code": 0,
+  "verified_flags": [
+    "--no-llm",
+    "--format",
+    "--output",
+    "--fail-on-findings",
+    "--fail-on-incomplete"
+  ],
+  "installation": "temporary venv in /tmp/casa-skillspector-venv; source in /tmp/casa-skillspector-source; no MCP extra",
+  "environment": "env isolated: no inherited credentials; LANGSMITH_TRACING=false; LANGCHAIN_TRACING_V2=false"
+}

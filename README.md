@@ -45,7 +45,7 @@ Puede abrir una conversación sobre algo que apareció: una idea, un nombre, un 
 
 **Una casa recibe visitas; no las incorpora por obligación.**
 
-**Estado de seguridad:** revisión documental; **NVIDIA SkillSpector no ejecutado**. Ninguna capacidad instalada ni evaluación externa de usuarios.
+**Estado de seguridad:** revisión documental; **NVIDIA SkillSpector 2.12.0 ejecutado en modo estático sobre el HEAD previo a estos cambios: salida 1, un hallazgo HIGH y cobertura parcial (94,7 %); no es PASS**. [Evidencia y límites](AUDITORIA_NVIDIA.md). Ninguna capacidad instalada ni evaluación externa de usuarios.
 
 ### Para colaborar en el mantenimiento
 
