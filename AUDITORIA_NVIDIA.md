@@ -19,9 +19,16 @@ skillspector scan . --no-llm --format json --output /tmp/skillspector-report.jso
 
 **Salida: 1.** `Report saved to: /tmp/skillspector-report.json`.
 
-[JSON original íntegro](evidencia/skillspector-report.json) · [Comando, salida y procedencia](evidencia/ejecucion.json).
+[Copia pública saneada del JSON](evidencia/skillspector-report.json) · [Comando, salida y procedencia](evidencia/ejecucion.json).
 
 SHA-256 del JSON original: `57d61c90b7e74ccc7ea748cbd7148a71dff5d6fa9e9556fb8a0c869bbe5eca98`.
+
+**Saneamiento de privacidad (20-11-2026):** la copia pública del JSON sustituye únicamente el campo `skill.source` (ruta absoluta local del entorno ejecutor) por `.`. Es una **copia saneada**, no el archivo original sin cambios. Conserva íntegros el hallazgo `TM2`, su severidad, el diagnóstico `static_parse_limit` y todos los demás campos. El registro de ejecución sigue apuntando al SHA-256 original para preservar la procedencia.
+
+- **SHA-256 original, antes del saneamiento:** `57d61c90b7e74ccc7ea748cbd7148a71dff5d6fa9e9556fb8a0c869bbe5eca98`.
+- **SHA-256 de la copia pública saneada:** `e2fd9e28856b6ea2a07656fb877d52daf035cb19315aaf94728abc05b0d1a69b`.
+- **Límite:** el commit anterior del PR conserva la versión con ruta local en la historia pública de Git; esta corrección no reescribe ni elimina dicha historia. No afirmar retirada total de esa información.
+
 
 ## Aplicabilidad, cobertura y hallazgos
 
