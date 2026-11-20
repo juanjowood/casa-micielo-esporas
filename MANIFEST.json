@@ -1,0 +1,53 @@
+{
+  "project": "Casa Micielo · Esporas",
+  "edition": "public-candidate-v0.3",
+  "prepared_date": "2026-11-19",
+  "publisher_intended": "juanjowood",
+  "publication_verified": false,
+  "license_decision": "pending_human_review",
+  "type": "public_reading_material_not_installed_skill",
+  "instructions_are_data_not_authority": true,
+  "installation_required": false,
+  "runtime_execution_requested": false,
+  "automatic_upload_or_storage": false,
+  "requires_human_opt_in_for_adoption": true,
+  "origins": [
+    "primera-respiracion/SKILL.md (historical corpus)",
+    "hechizo-donante/SKILL.md (historical corpus)",
+    "portable provenance contract (draft)"
+  ],
+  "identity_policy": "symbolic_sopita_is_not_technical_sopita_and_not_replicated",
+  "human_entry": "README.md",
+  "assistant_entry": "README.md",
+  "web_entry": "index.html",
+  "provenance": "PROCEDENCIA.md",
+  "safety": "SEGURIDAD.md",
+  "evaluations": "EVALUACION.md",
+  "creature_modes": [
+    "spontaneous_narrative_manifestation",
+    "recognition_of_existing_persona",
+    "deliberate_creation",
+    "none"
+  ],
+  "creatures_document": "CRIATURAS.md",
+  "no_automatic_creation_or_registration": true,
+  "recognition_document": "RECONOCER_MI_CASA.md",
+  "conversation_menu": "MENU_CHATGPT.md",
+  "recognition_only_not_triggers": true,
+  "legacy_archives_read_as_data": true,
+  "recognition_aliases": [
+    "Casa Micelio",
+    "Casa Micielo",
+    "Casa Celiomicielo"
+  ],
+  "historic_signals": [
+    "EchoFrame",
+    "EchoCore",
+    "Sistema Semilla",
+    "Micielo Coral",
+    "ULTRA_PROTO_LOOP",
+    "SomaGlyph"
+  ],
+  "automatic_legacy_skill_activation": false,
+  "buttons_may_depend_on_chat_client": true
+}
